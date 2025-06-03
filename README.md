@@ -1,7 +1,7 @@
-# WebApplication1 - Item Frequency Counter API
+# WebApplication1
 
-This is a simple ASP.NET Core Web API project that accepts a list of items (integers, strings, characters, etc.) and returns a count of how many times each item appears.
-Accepts a list of mixed data types (int, string, char, etc.)
+This is an ASP.NET Core Web API project that accepts a list of items (integers, strings, characters,) and returns a count of how many times each item appears.
+Accepts a list of mixed data types (int, string, char.)
 Returns a dictionary of item counts
 Designed with clean MVC architecture
 Ready to test using Swagger or Postman
