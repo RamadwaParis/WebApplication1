@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.ItemsController",
+    "Method": "CountItems",
+    "RelativePath": "api/Items/count",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WebApplication1.Models.ItemRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
